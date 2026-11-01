@@ -67,7 +67,7 @@ This command established the main working directory for the lab.
 
 **Screenshot:**
 
-![Create Project Directory](screenshots/01-create-directory.png)
+![Create Project Directory](screenshots/01-create-directory.jpg)
 
 ### Task 2: Create a Text File
 
@@ -87,7 +87,7 @@ This task introduced basic file creation and directory navigation.
 
 **Screenshot:**
 
-![Create Text File](screenshots/02-create-file.png)
+![Create Text File](screenshots/02-03-create-and-write-notes.jpg)
 
 ### Task 3: Add Text to the File
 
