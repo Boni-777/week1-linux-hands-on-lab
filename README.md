@@ -107,7 +107,7 @@ The command writes the specified text into `notes.txt`.
 
 **Screenshot:**
 
-![Add Text to File](screenshots/03-add-text.png)
+![Add Text to File](screenshots/02-03-create-and-write-notes.jpg)
 
 ### Task 4: Create a Scripts Directory
 
@@ -125,7 +125,7 @@ This directory was created to organize the project files.
 
 **Screenshot:**
 
-![Create Scripts Directory](screenshots/04-create-scripts-directory.png)
+![Create Scripts Directory](screenshots/04-05-create-scripts-and-move.jpg)
 
 ### Task 5: Move the File into the Scripts Directory
 
@@ -145,7 +145,7 @@ After executing the command, `notes.txt` was moved into the `scripts` directory.
 
 **Screenshot:**
 
-![Move File](screenshots/05-move-file.png)
+![Move File](screenshots/04-05-create-scripts-and-move.jpg)
 
 ### Task 6: Search for the File
 
@@ -172,7 +172,7 @@ This confirmed that the file was successfully moved into the correct directory.
 
 **Screenshot:**
 
-![Search for File](screenshots/06-search-file.png)
+![Search for File](screenshots/06-search-notes.txt.jpg)
 
 ### Task 7: Identify Running Processes and Their PIDs
 
@@ -197,7 +197,7 @@ This task introduced basic Linux process monitoring and management.
 
 **Screenshot:**
 
-![Identify Running Processes](screenshots/07-process-pid.png)
+![Identify Running Processes](screenshots/07-process-ps-aux.jpg)
 
 ## 5. Key Linux Commands Practiced
 
@@ -237,7 +237,9 @@ These skills provide an important foundation for my continued learning in Cloud 
 ---
 
 **Author:** Bontu Bekele
+
 **Learning Track:** Cloud and DevOps
+
 **Week:** 01 – Linux Fundamentals
 
 
